@@ -1,0 +1,14 @@
+{
+"companyName": "Eric",
+"productName": "brick breaker",
+"dataUrl": "brick breaker.data.unityweb",
+"wasmCodeUrl": "brick breaker.wasm.code.unityweb",
+"wasmFrameworkUrl": "brick breaker.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "brick breaker.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
